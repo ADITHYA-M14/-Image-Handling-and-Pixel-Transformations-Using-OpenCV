@@ -1,4 +1,3 @@
-# Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
@@ -31,8 +30,8 @@ Display the original, lower contrast, and higher contrast images.
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
-- **Name:** MIDHUN S 
-- **Register Number:** 212224230158
+- **Name:** ADITHYA  M
+- **Register Number:** 212224230008
 
   ### Ex. No. 01
 
@@ -136,46 +135,57 @@ image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 ## Output:
 
 ## original image
-- <img width="650" height="373" alt="image" src="https://github.com/user-attachments/assets/00b600c7-e17f-4326-ae63-92540e131151" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/aa57193d-1e2d-4d61-b7ef-5da6f325619c" />
+
 
 ## Image with Line
-<img width="605" height="366" alt="image" src="https://github.com/user-attachments/assets/d11ed377-a61b-4f9a-b029-d2eae60a829f" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/5373b4a1-d973-4908-9792-f5bec876bdd5" />
+
 
 ## Image with Circle
-<img width="772" height="363" alt="image" src="https://github.com/user-attachments/assets/5febc3a7-9412-4525-86dd-4fa6ad8feb35" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/d9e94255-262f-4db9-a375-0579fdc16e8f" />
 
 ## Image with Rectangle
-<img width="610" height="363" alt="image" src="https://github.com/user-attachments/assets/215f92a4-e492-49e3-aa93-08f0dbfa65d6" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/a267c182-aaf9-45ed-b0ff-0f52269f1344" />
+
 
 ## Image with Text
-<img width="585" height="368" alt="image" src="https://github.com/user-attachments/assets/d11437ab-182c-4f67-9564-76b7ba91d569" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/0afde0b5-1143-49e7-9b66-7503833900d8" />
+
 
 ## Original RGB Image
-<img width="625" height="337" alt="image" src="https://github.com/user-attachments/assets/0c7a15cf-f2a2-4b1f-a9a4-e3c4ea18eab1" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/c85be0ab-cf97-4e2b-8673-669be604c46b" />
+
 
 ## HSV Image
-<img width="620" height="353" alt="image" src="https://github.com/user-attachments/assets/d046e489-32f4-480f-a672-26cd14a34033" />
+<img width="515" height="319" alt="image" src="https://github.com/user-attachments/assets/dc8c5cb0-9263-48fc-b94b-29440dac26dc" />
+
 
 ## Grayscale Image
-<img width="593" height="362" alt="image" src="https://github.com/user-attachments/assets/32491383-3787-47b9-8946-58a1b3b540f1" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/3fd025c0-f3aa-4f12-92cb-77ddfc28b75c" />
 
 ## HSV to RGB Image
-<img width="598" height="397" alt="image" src="https://github.com/user-attachments/assets/00a335ab-5e57-45b9-9fb2-34132377fa3c" />
+<img width="515" height="319" alt="image" src="https://github.com/user-attachments/assets/50ab1f46-20db-4caf-bd61-0cdab65ac4a9" />
+
 
 ## Image with 300x300 White Block
-<img width="572" height="352" alt="image" src="https://github.com/user-attachments/assets/69f0f494-c944-4a7d-82b9-71865ad7c35b" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/577a65f4-ccba-43bf-9f63-ab7bb71e8da9" />
+
 
 ## Resized Image (Half Size)
-<img width="630" height="462" alt="image" src="https://github.com/user-attachments/assets/8ccbad8c-264f-4cdb-a4ad-788b2d3dfd32" />
+<img width="493" height="410" alt="image" src="https://github.com/user-attachments/assets/95175af9-4a29-4d2d-aa37-9913711f4e77" />
+
 
 ## Cropped Region of Interest (ROI)
-<img width="443" height="461" alt="image" src="https://github.com/user-attachments/assets/ec626a0b-9d89-487f-8833-aabf1394f45d" />
+<img width="389" height="410" alt="image" src="https://github.com/user-attachments/assets/eab45787-5be0-45b6-a258-d84905ad87ac" />
 
 ## Flipped Horizontally
-<img width="576" height="357" alt="image" src="https://github.com/user-attachments/assets/50fbc331-5e80-4d8b-a42f-8f25e2d6b78e" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/7a55c830-e685-40af-a341-7534bfeb32a0" />
+
 
 ## Flipped Vertically
-<img width="582" height="345" alt="image" src="https://github.com/user-attachments/assets/28f13c57-27d4-47fc-83a9-76e867bd6a95" />
+<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/10081ff6-58a6-4bf8-ba90-169f58e3b895" />
+
 
 
 ## Result:
